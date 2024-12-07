@@ -1,0 +1,34 @@
+[
+    { 
+        "name": "Electric Guitar (strat-style)",
+        "url": "images/electric.png" 
+    },
+    { 
+        "name": "Electric Guitar (les paul-style)",
+        "url": "images/electric2.png" 
+    },
+    { 
+        "name": "Electric Bass",
+        "url": "images/bass.png" 
+    },
+    { 
+        "name": "Acoustic Guitar", 
+        "url": "images/acoustic.png" 
+    },
+    { 
+        "name": "Guitar Amp (combo)",
+        "url": "images/vox.png" 
+    },
+    { 
+        "name": "Shure SM57",
+        "url": "images/SM57.png" 
+    },
+    { 
+        "name": "Sennheiser e609",
+        "url":  "images/e609.png" 
+    },
+    { 
+        "name": "Mic Stand (classic)",
+        "url":  "images/mic stand.png" 
+    }
+]
