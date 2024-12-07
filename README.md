@@ -30,7 +30,7 @@ Here is a list of key commands that are also accessible on the site:
 | Nudge Item           | Arrow Keys         |
 | Faster Nudge         | Shift + Arrow Keys |
 
-Additional Info:
+**Additional Info:**
 - **Adding Gear:** Pressing G brings up a search bar in which you can search for any piece of audio gear. Selecting a piece of gear will add an image of it to the canvas. Ideally this will contain a large list of popularly used gear, which I am still adding to. If you don't see your piece of gear on the list, please contact me and I'll add it!
 - **Personal Item:** Creates a texbox in which you can add the name of a piece of custom gear, either something not in the gear list or something unique of yours. Then you can create a shape to represent it and drag the text onto it. (this could be implemented better, I will probably improve it at some point)
 - **Note:** Text comment such as "Mic 5" from amp" or "Vocalist likes reverb in monitor"
