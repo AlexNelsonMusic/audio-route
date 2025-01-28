@@ -36,7 +36,7 @@ Here is a list of key commands that are also accessible on the site:
 - **Personal Item:** Creates a texbox in which you can add the name of a piece of custom gear, either something not in the gear list or something unique of yours. Then you can create a shape to represent it and drag the text onto it.
 - **Note:** Text comment such as "Mic 5 in. from amp" or "Vocalist likes reverb in monitor"
 - F, ShiftF, B, ShiftB: In case it is unclear, these shorcuts move the selected item through each layer on the z-axis.
-- **Gear Inventory:** This is intended to use as a checklist for what you should bring to your event or session. Once cables are implemented, these will also appear in the gear inventory.
+- **Gear Inventory:** This is intended to be used as a checklist for what you should bring to your event or session. Once cables are implemented, these will also appear in the gear inventory.
 ### Coming features/changes:
 - Cable Routing
 - Undo/Redo System
